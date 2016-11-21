@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.NewProject",
+  "startScene": "74666f5f-e0be-4ce4-8fc2-59a9f347de5e",
+  "title": "NewProject",
+  "webOrientation": "auto"
+}
