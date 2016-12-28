@@ -1,0 +1,52 @@
+2016-12-28T12:26:19.091Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-28T12:26:19.098Z - normal: checking language setting...
+2016-12-28T12:26:19.098Z - normal: Language: zh
+2016-12-28T12:26:20.213Z - success: protocol editor-framework registered
+2016-12-28T12:26:20.213Z - success: protocol app registered
+2016-12-28T12:26:20.214Z - success: protocol packages registered
+2016-12-28T12:26:20.214Z - success: protocol theme registered
+2016-12-28T12:26:20.214Z - success: protocol unpack registerred
+2016-12-28T12:26:20.818Z - normal: connected!
+2016-12-28T12:26:20.828Z - normal: Check project C:\Users\Administrator\Desktop\creator
+2016-12-28T12:26:20.837Z - normal: Initializing Cocos Creator Editor
+2016-12-28T12:26:21.216Z - normal: Initializing Cocos2d
+2016-12-28T12:26:21.482Z - normal: Initializing Asset Database
+2016-12-28T12:26:21.513Z - success: protocol uuid registerred
+2016-12-28T12:26:21.513Z - success: protocol db registerred
+2016-12-28T12:26:21.513Z - success: protocol thumbnail registerred
+2016-12-28T12:26:21.513Z - normal: Loading editor/builtin packages
+2016-12-28T12:26:21.699Z - success: assets loaded
+2016-12-28T12:26:21.701Z - success: builder loaded
+2016-12-28T12:26:21.705Z - success: hierarchy loaded
+2016-12-28T12:26:21.707Z - success: inspector loaded
+2016-12-28T12:26:21.709Z - success: keystore loaded
+2016-12-28T12:26:21.712Z - success: node-library loaded
+2016-12-28T12:26:21.715Z - success: preferences loaded
+2016-12-28T12:26:21.729Z - success: project-importer loaded
+2016-12-28T12:26:21.731Z - success: project-settings loaded
+2016-12-28T12:26:21.733Z - success: ui-kit loaded
+2016-12-28T12:26:21.735Z - success: ui-grid loaded
+2016-12-28T12:26:21.738Z - success: scene loaded
+2016-12-28T12:26:21.740Z - success: sprite-editor loaded
+2016-12-28T12:26:21.745Z - success: timeline loaded
+2016-12-28T12:26:21.746Z - normal: Loading builtin packages
+2016-12-28T12:26:21.749Z - success: asset-db-debugger loaded
+2016-12-28T12:26:21.750Z - success: code-editor loaded
+2016-12-28T12:26:21.750Z - success: color-picker loaded
+2016-12-28T12:26:21.753Z - success: console loaded
+2016-12-28T12:26:21.755Z - success: package-manager loaded
+2016-12-28T12:26:21.758Z - success: tester loaded
+2016-12-28T12:26:21.760Z - success: ui-kit-preview-extra loaded
+2016-12-28T12:26:21.761Z - success: ui-kit-preview loaded
+2016-12-28T12:26:21.763Z - success: ui-tree loaded
+2016-12-28T12:26:21.803Z - normal: Initializing project C:\Users\Administrator\Desktop\creator
+2016-12-28T12:26:21.832Z - normal: Loading packages
+2016-12-28T12:26:21.836Z - normal: Watching packages
+2016-12-28T12:26:21.849Z - normal: Run Application
+2016-12-28T12:26:22.615Z - success: preview server running at http://localhost:7456
+2016-12-28T12:26:22.615Z - normal: Compiling scripts...
+2016-12-28T12:26:24.266Z - normal: Compiled successfully
+2016-12-28T12:26:28.336Z - normal: 1.3.2
+2016-12-28T12:26:57.835Z - normal: Compiled successfully
+2016-12-28T12:26:59.842Z - normal: 1.3.2
+2016-12-28T12:27:00.504Z - normal: Built to "C:\Users\Administrator\Desktop\creator\build\web-desktop" successfully
