@@ -6,24 +6,6 @@
       "y": 4,
       "width": 1280,
       "height": 720
-    },
-    "window-1482928003036": {
-      "layout": {
-        "type": "dock-v",
-        "children": [
-          {
-            "type": "panel",
-            "active": 0,
-            "children": [
-              "builder"
-            ]
-          }
-        ]
-      },
-      "x": 425,
-      "y": 0,
-      "width": 516,
-      "height": 738
     }
   }
 }
